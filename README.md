@@ -1,7 +1,7 @@
 # Desarrollo-VideoJuego
 
 Integrantes:
-  Victor Bonta
+  Victor Bonta,
   Rodolfo Droguett
 
 Seccion: 247B/V
